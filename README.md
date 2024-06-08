@@ -19,4 +19,4 @@ Assurez-vous d'avoir un compilateur C installé sur votre système, comme `gcc`.
 Clonez le dépôt et accédez au répertoire du projet :
 ```bash
 git clone https://github.com/votre_nom_dutilisateur/jeux-snoopy-console.git
-cd SnoopyGameConsoleVersion
+cd Snoopy-GameConsoleVersion
